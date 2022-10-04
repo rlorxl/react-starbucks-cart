@@ -1,0 +1,28 @@
+.wrapper {
+  position: relative;
+}
+
+.detail {
+  display: flex;
+  flex-flow: column-reverse nowrap;
+}
+
+.detail img {
+  width: 100%;
+  height: 300px;
+  background: #ccc;
+}
+
+.detail div {
+  padding: 2rem;
+}
+
+.detail p {
+  font-size: 1.5rem;
+}
+
+.amount {
+  position: absolute;
+  top: calc(300px + 2rem);
+  right: 2rem;
+}

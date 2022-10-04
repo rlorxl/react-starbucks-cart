@@ -1,0 +1,22 @@
+.order {
+  text-align: center;
+  padding-top: 2rem;
+}
+
+.store {
+  position: fixed;
+  left: 0;
+  bottom: 54px;
+  width: 100%;
+  display: flex;
+  flew-flow: row nowrap;
+  justify-content: space-between;
+  padding: 1rem;
+  background-color: pink;
+}
+
+.badge {
+  width: 1.5rem;
+  height: 1.5rem;
+  background-color: lightgray;
+}

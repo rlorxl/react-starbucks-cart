@@ -1,0 +1,7 @@
+.orderItem a{
+  display: flex;
+  flex-flow: row-reverse nowrap;
+  justify-content: space-between;
+  align-items: center;
+  padding: 0.6rem;
+}

@@ -1,0 +1,12 @@
+.navigation {
+  position: fixed;
+  left: 0;
+  bottom: 0;
+  display: flex;
+  flew-flow: row nowrap;
+  justify-content: space-around;
+  align-items: center;
+  width: 100%;
+  padding: 1rem;
+  background: lightgray;
+}

@@ -1,0 +1,15 @@
+.amount button {
+  font-size: 2rem;
+  width: 3rem;
+  height: 3rem;
+  line-height: 0.7;
+  border-radius: 50%;
+  border: none;
+  background: green;
+  color: white;
+}
+
+.amount span {
+  font-size: 1.8rem;
+  padding: 1rem;
+}
